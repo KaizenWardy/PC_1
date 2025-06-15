@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Primary"
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
