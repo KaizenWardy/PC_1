@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тест.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Тест"
+              "title": "README"
             }
           }
         ],
@@ -67,12 +67,36 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
+          },
+          {
+            "id": "0743d7ee3d65b5c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3deaa5767f45e120",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "d673bc5229a2ebaf",
@@ -100,12 +124,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "49e43d7c952d2c86",
+  "active": "3deaa5767f45e120",
   "lastOpenFiles": [
-    "README.md",
-    "Тест.md"
+    "Личный бюджет.md",
+    "Тест.md",
+    "Работа кола/Вопросы.md",
+    "Images/20250611_091345.jpg",
+    "Работа кола/Перемаршрут.md",
+    "Работа кола/Пароли.md",
+    "Работа кола/Новые.md",
+    "Работа кола/Разбирательства с магнит/Комаринская 7.md",
+    "Images/Screenshot_20250611_091228_EasyMerch.jpg",
+    "Images",
+    "README.md"
   ]
 }
