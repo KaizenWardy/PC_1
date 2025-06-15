@@ -15,7 +15,8 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -29,7 +30,8 @@
               "state": {
                 "file": "Тест.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Тест"
@@ -50,20 +52,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c814e2ec18162353",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
-            }
-          },
-          {
-            "id": "27464ca081ad0a1b",
+            "id": "6d89c38e1cb17408",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,16 +67,6 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "29eaa3237434c181",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
           }
         ]
       }
@@ -98,90 +77,13 @@
   "right": {
     "id": "d673bc5229a2ebaf",
     "type": "split",
-    "children": [
-      {
-        "id": "4992cdaf17ba7900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f2f349013a755a7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Тест.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Тест"
-            }
-          },
-          {
-            "id": "84c23a5d165894ba",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Тест.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Тест"
-            }
-          },
-          {
-            "id": "8b55469fef7f4b16",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
-            "id": "ff72204fa311b2d0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Тест.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Тест"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
-    }
+    "hiddenItems": {}
   },
   "active": "49e43d7c952d2c86",
   "lastOpenFiles": [
