@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Работа кола/Заказы/Уфимочка.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Уфимочка"
             }
           }
         ],
@@ -131,8 +131,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "3deaa5767f45e120",
+  "active": "49e43d7c952d2c86",
   "lastOpenFiles": [
+    "Работа кола/Заказы/Инхом.md",
+    "README.md",
     "Личный бюджет.md",
     "Тест.md",
     "Работа кола/Вопросы.md",
@@ -142,7 +144,6 @@
     "Работа кола/Новые.md",
     "Работа кола/Разбирательства с магнит/Комаринская 7.md",
     "Images/Screenshot_20250611_091228_EasyMerch.jpg",
-    "Images",
-    "README.md"
+    "Images"
   ]
 }
