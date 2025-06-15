@@ -77,13 +77,31 @@
   "right": {
     "id": "d673bc5229a2ebaf",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "d9555a464b297830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151e090116efa99b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
-    "hiddenItems": {}
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false
+    }
   },
   "active": "49e43d7c952d2c86",
   "lastOpenFiles": [
